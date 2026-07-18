@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Studio",
+  "description": "A sleek, dark-mode personal AI Video Generation platform connected to Supabase Edge Functions and Stable Diffusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
